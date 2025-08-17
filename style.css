@@ -1,0 +1,666 @@
+/* ================================================ 
+common
+================================================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  height: 100%;
+}
+
+body {
+  font-size: 2rem;
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif;
+  line-height: 1.6;
+  color: #fff8f0;
+  padding-top: 80px;  /* ← 固定ヘッダーの高さ分だけ余白を確保 */
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+button {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+section {
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+::selection {
+  background: none;
+  color: inherit;
+}
+
+.bg-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background-image: url("images/flower.jpg");
+  background-repeat: no-repeat;        /* 画像を繰り返さない */
+  background-size: cover;              /* 高さ・横幅に合わせて引き伸ばし */
+  background-position: center center;  /* 中央寄せ */
+}
+
+
+/* ================================================ 
+header
+================================================ */
+.site-header {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  justify-content: space-between;
+  height: 80px;
+  background: #fff8f0;
+  align-items: center;
+  line-height: 1;
+  padding: 0 4%;
+  top: 0;                 /* スクロールしても上に固定したい場合 */
+}
+
+.site-header .logo a {
+  color: #584131;
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: 'Noto Serif JP', serif;
+  scroll-behavior: smooth;
+  transition: color 0.3s ease; /* ← ふわっと変わる効果 */
+}
+
+.main-nav ul {
+  display: flex;
+  gap: 30px;
+}
+
+.main-nav ul li a {
+  color: #584131;
+  font-weight: bold;
+  transition: color 0.3s ease; /* ← ふわっと変わる効果 */
+}
+
+.site-header a:hover {
+  color: #ff6699;
+}
+
+
+/* ================================================ 
+PROFILE
+================================================ */
+#profile {
+  position: relative;
+  margin-top: 600px;
+  scroll-margin-top: 100px; /* ヘッダーの高さ＋余裕 */
+}
+
+.profile-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.profile-img {
+  width: 50%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.profile-text {
+  flex: 1;
+  align-self: flex-start;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.5);  /* 半透明黒背景 */
+  padding: 16px;
+}
+
+.logo-en {
+  font-size: 1rem;        /* 英語の文字を小さく */
+  letter-spacing: 0.1em;  /* 少し字間を広げる */
+  display: block;
+}
+
+.name {
+  padding-bottom: 4px;
+  font-size: 2.5rem;
+}
+
+.name span {
+  font-size: 2rem;
+  padding-left: 16px;
+}
+
+
+/* ================================================ 
+WORKS
+================================================ */
+#works {
+  scroll-margin-top: 100px; /* ヘッダーの高さ＋余裕 */
+}
+
+.work-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 46px;
+  gap: 20px;
+}
+
+/* reverseレイアウト */
+.work-row.reverse {
+  flex-direction: row-reverse;
+}
+
+.work-img {
+  width: 100%;
+  max-width: 500px;
+}
+
+.work-img img {
+  transition: opacity 0.3s ease;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  max-width: 500px;
+}
+
+.work-img a:hover img {
+  filter: brightness(0.8);     /* 値を下げると暗く＝濃く見える */
+}
+
+.work-desc {
+  flex: 2;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.5);  /* 半透明黒背景 */
+  padding: 16px;
+  width: 60%;
+}
+
+.work-title a {
+  width: auto;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #fff8f0;
+  transition: color 0.3s ease; /* ← ふわっと変わる効果 */
+}
+
+.work-title a:hover {
+  color: #ff6699;
+}
+
+
+/* ================================================ 
+CONTACT
+================================================ */
+.contact-button a {
+  display: flex;
+  justify-content: center;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff8f0;
+  background-color: #ff6699;
+  transition: background-color 0.3s ease;
+  user-select: none;
+}
+
+.contact-button a:hover {
+  filter: brightness(0.8);     /* 値を下げると暗く＝濃く見える */
+}
+
+
+/* ================================================ 
+footer
+================================================ */
+footer {
+  width: 100%;
+  padding: 16px 4%;
+  background: #fff8f0;
+  position: relative;
+  margin-top: 50px;
+}
+
+.sns {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 auto;
+  list-style-type: none;
+}
+
+.sns li {
+  padding-left: 16px;
+}
+
+.sns-icon {
+  width: 100%;
+}
+
+.copyright {
+  margin: 0;
+  text-align: center;
+  color: #584131;
+}
+
+/* ================================================ 
+article system.html hp.html
+================================================ */
+.item {
+  display: flex;
+  align-items: flex-start;
+}
+
+.item-img img {
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+h4 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 16px 0 8px;
+  line-height: 1.5;
+}
+
+.list-item-content {
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.5);  /* 半透明黒背景 */
+  padding: 16px;
+}
+
+.list-item-content div p {
+  line-height: 1.8;
+}
+
+
+/* ================================================ 
+article vba.html
+================================================ */
+article h2 {
+  text-align: center;
+  padding: 32px 0 0;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  padding-top: 16px;
+}
+
+.list-item {
+  display: flex;
+  width: calc(50% - 10px);  /* 2列＋gap考慮 */
+  align-items: flex-start;
+  padding: 16px;
+}
+
+.list-item-img {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.list-item-img img {
+  object-fit: cover;
+  display: block;
+}
+
+.list-item-img img:hover {
+  filter: brightness(0.8);     /* 値を下げると暗く＝濃く見える */
+}
+
+.list-item-content {
+  width: 70%; /* テキスト側の比率 */
+  display: flex;
+  flex-direction: column;  /* ← 縦並びに */
+  margin-left: 32px;
+  color: #fff8f0;
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: bold;
+  padding-bottom: 16px;
+}
+
+.menu-title a {
+  color: #fff8f0;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.menu-title a:hover {
+  color: #ff6699;
+}
+
+
+/* ================================================ 
+article vba_1.html
+================================================ */
+.vba-img img {
+  width: 700x;
+  max-width: 500px;
+  height: auto;
+  object-fit: contain;
+  object-position: top center;
+  display: block;
+  margin: 0 auto;
+}
+
+.advantages {
+  padding: 32px 0 8px;
+}
+
+
+/* ================================================ 
+メディアクエリ
+================================================ */
+@media (max-width: 768px) {
+
+  /* 全体のフォントサイズを調整 */
+  body {
+    font-size: 1.4rem; /* ≒14px。文章にちょうどよい大きさ */
+  }
+
+  section h2{
+    text-align: center;
+  }
+
+  article h2 {
+    font-size: 2.0rem;
+    text-align: center;
+    padding: 40px 0 16px;
+  }
+
+  h3 {
+    font-size: 1.8rem;
+    margin-bottom: 4px;
+  }
+
+  h4 {
+    font-size: 1.6rem;
+    margin-bottom: 4px;
+  }
+
+  p {
+    font-size: 1.4rem;
+    line-height: 1.8;
+  }
+
+  section {
+    width: 100%;
+  }
+
+  .list-item-content div p {
+    font-size: 1.4rem;
+    line-height: 1.8;
+  }
+
+  .name {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .logo-en {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+
+  .copyright {
+    font-size: 1.2rem;
+  }
+
+  img {
+    text-align: center;
+    padding: 0;
+  }
+
+
+  /* ヘッダー */
+  .site-header {
+    flex-direction: column;
+    height: auto;
+    padding: 8px;
+    gap: 8px;
+    text-align: center;
+  }
+
+  .site-header .logo a {
+    font-size: 3.2rem;
+  }
+
+  .main-nav ul {
+    gap: 8px;
+  }
+
+  #works {
+    scroll-margin-top: 100px;
+  }
+
+
+  /* PROFILE */
+  #profile {
+    margin-top: 120px;         /* モバイルではマージンを減らす */
+    scroll-margin-top: 100px;
+  }
+
+  .profile-row {
+    flex-direction: column;   /* 横並び → 縦並びに */
+    align-items: center;
+  }
+
+  .profile-img {
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+  }
+
+  .profile-img img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    border-radius: 8px;
+  }
+
+  .profile-text {
+    width: 90%;
+    margin-top: 16px;
+    padding: 16px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    text-align: left;
+  }
+
+  .name {
+    font-size: 2.4rem;
+    text-align: center;
+  }
+
+  .logo-en {
+    font-size: 1.4rem;
+    text-align: center;
+  }
+
+
+  /* WORKS */
+  .work-row,
+  .work-row.reverse {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .work-img {
+    width: 90%;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .work-img img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+  }
+
+  .work-desc {
+    width: 90%;
+    margin: 16px auto 0;
+    }
+
+  .work-title a {
+    font-size: 2.4rem;
+    display: block;
+    text-align: center;
+  }
+
+
+  /* contact */
+  #contact {
+    width: 90%;
+    }
+
+  /* footer */
+  .sns {
+    justify-content: center;
+    text-align: center;
+  }
+  .sns-icon {
+    width: 50%;
+  }
+  .sns li {
+    padding-left: 0;
+  }
+
+  .copyright {
+    font-size: 1.4rem;
+  }
+
+  /* PROFILE画像を中央揃え */
+  .profile-img {
+    text-align: center;
+  }
+
+  .profile-img img {
+    margin: 0 auto;
+    display: inline-block;
+  }
+
+  /* WORKS画像を中央揃え */
+  .work-img {
+    text-align: center;
+  }
+
+  .work-img img {
+    margin: 0 auto;
+    display: inline-block;
+  }
+
+  .list-item {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .list-item-img img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 16px; /* ← paddingよりこっちが確実 */
+  }
+
+  /* article system.html hp.html */
+  .item {
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .item-img img {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .list-item-content {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+
+  /* article vba_1.html */
+  .vba-img {
+    width:90%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .vba-img img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    object-fit: contain;
+  }
+
+  .automation {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 12px 16px;
+  }
+
+}

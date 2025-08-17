@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="VBAやPythonを活用した業務効率化や、渡邊幸美のWeb制作の実績を紹介するポートフォリオサイトです。">
+    <title>yukimi Portfolio</title>
+    <link rel="icon" href="images/yukimi_icon_small.png?v=1" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <div class="bg-overlay"></div>
+
+    <!-- ヘッダー -->
+    <header class="site-header">
+      <h1 class="logo"><a href="index.html">幸美</a></h1>
+      <nav class="main-nav">
+        <ul>
+          <li><a href="index.html#profile">PROFILE</a></li>
+          <li><a href="index.html#works">WORKS</a></li>
+          <li><a href="index.html#contact">CONTACT</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- コンテンツ -->
+    <article>
+      <h2>SYSTEM</h2>
+      <section class="item">
+        <div class="item-img">
+          <img src="images/system.png" alt="PythonとVBAのシステム">
+        </div>
+        <div class="list-item-content">
+          <h3 class="menu-title">PythonとVBAの家計管理自動化</h3>
+          <div>
+            <h4>目的<br>「光熱費だけを可視化したい」という思いから、<br>Web明細の自動取得と月次記録のExcel化の実現</h4>
+            <h4>システムに反映済</h4>
+            <p>・電気：PDF明細を自動解析、使用量と金額をExcelへ記録<br>
+            ・ガス：Webログイン＆スクレイピングにより、使用量と金額を取得<br>
+            ・仮想環境（venv）を使用したパッケージ管理と実行環境の分離<br>
+            ・Excelの自動記録：使用月に応じて対象行へ書き込み<br>
+            ・run_all.bat により、複数スクリプトを一括実行<br>
+            ・ログファイル出力によるエラー・実行履歴の記録</p>
+            <h4>これからやりたいこと</h4>
+            <p>・Webサイトの仕様変更に対応<br>
+              ・IDとパスワードは.envファイルで安全に管理<br>
+              ・タスクスケジューラへの登録による完全自動化</p>
+          </div>
+        </div>
+      </section>
+    </article>
+
+    <!-- フッターグループ -->
+    <footer>
+      <ul class="sns">
+        <li><a href="https://twitter.com/washiyuki_vt" target="_blank"><img src="images/twitter.png" alt="Twitter" class="sns-icon"></a></li>
+        <li><a href="https://www.instagram.com/washiyuki_tapioka"><img src="images/instagram.png" alt="Instagram" class="sns-icon"></a></li>
+      </ul>
+      <p class="copyright">
+        &copy; yukimi portfolio.
+      </p>
+    </footer>
+
+  </body>
+</html>
