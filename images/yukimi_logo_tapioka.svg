@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 160">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#_名称未設定グラデーション_6811);
+        filter: url(#drop-shadow-12);
+      }
+
+      .st1 {
+        fill: url(#_名称未設定グラデーション_142);
+        filter: url(#drop-shadow-17);
+      }
+
+      .st2 {
+        fill: url(#_名称未設定グラデーション_1412);
+        filter: url(#drop-shadow-27);
+      }
+
+      .st3 {
+        fill: url(#_名称未設定グラデーション_346);
+        filter: url(#drop-shadow-35);
+      }
+
+      .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18 {
+        stroke-miterlimit: 10;
+      }
+
+      .st3, .st4, .st5, .st6, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16 {
+        stroke: #000;
+      }
+
+      .st4 {
+        fill: url(#_名称未設定グラデーション_3412);
+        filter: url(#drop-shadow-41);
+      }
+
+      .st19 {
+        fill: url(#_名称未設定グラデーション_144);
+        filter: url(#drop-shadow-19);
+      }
+
+      .st20 {
+        fill: url(#_名称未設定グラデーション_682);
+        filter: url(#drop-shadow-3);
+      }
+
+      .st21 {
+        fill: url(#_名称未設定グラデーション_684);
+        filter: url(#drop-shadow-5);
+      }
+
+      .st22 {
+        fill: url(#_名称未設定グラデーション_147);
+        filter: url(#drop-shadow-22);
+      }
+
+      .st23 {
+        fill: url(#_名称未設定グラデーション_146);
+        filter: url(#drop-shadow-21);
+      }
+
+      .st24 {
+        fill: url(#_名称未設定グラデーション_145);
+        filter: url(#drop-shadow-20);
+      }
+
+      .st25 {
+        fill: url(#_名称未設定グラデーション_1410);
+        filter: url(#drop-shadow-25);
+      }
+
+      .st5 {
+        fill: url(#_名称未設定グラデーション_3411);
+        filter: url(#drop-shadow-40);
+      }
+
+      .st26 {
+        fill: url(#_名称未設定グラデーション_686);
+        filter: url(#drop-shadow-7);
+      }
+
+      .st27 {
+        fill: url(#_名称未設定グラデーション_687);
+        filter: url(#drop-shadow-8);
+      }
+
+      .st6 {
+        fill: url(#_名称未設定グラデーション_3410);
+        filter: url(#drop-shadow-39);
+      }
+
+      .st28 {
+        fill: url(#_名称未設定グラデーション_6812);
+        filter: url(#drop-shadow-13);
+      }
+
+      .st7, .st29 {
+        font-family: HGPKyokashotai, HGPKyokashotai;
+        font-size: 161px;
+        letter-spacing: 0em;
+        opacity: 1;
+      }
+
+      .st7, .st18 {
+        fill: none;
+        stroke: #584131;
+      }
+
+      .st30 {
+        fill: url(#_名称未設定グラデーション_14);
+        filter: url(#drop-shadow-15);
+      }
+
+      .st8 {
+        fill: url(#_名称未設定グラデーション_341);
+        filter: url(#drop-shadow-30);
+      }
+
+      .st31 {
+        fill: url(#_名称未設定グラデーション_6813);
+        filter: url(#drop-shadow-14);
+      }
+
+      .st9 {
+        fill: url(#_名称未設定グラデーション_344);
+        filter: url(#drop-shadow-33);
+      }
+
+      .st10 {
+        fill: url(#_名称未設定グラデーション_342);
+        filter: url(#drop-shadow-31);
+      }
+
+      .st32 {
+        fill: url(#_名称未設定グラデーション_681);
+        filter: url(#drop-shadow-2);
+      }
+
+      .st33 {
+        fill: url(#_名称未設定グラデーション_149);
+        filter: url(#drop-shadow-24);
+      }
+
+      .st34 {
+        fill: url(#_名称未設定グラデーション_68);
+        filter: url(#drop-shadow-1);
+      }
+
+      .st35 {
+        fill: url(#_名称未設定グラデーション_1411);
+        filter: url(#drop-shadow-26);
+      }
+
+      .st11 {
+        fill: url(#_名称未設定グラデーション_345);
+        filter: url(#drop-shadow-34);
+      }
+
+      .st36 {
+        fill: url(#_名称未設定グラデーション_1413);
+        filter: url(#drop-shadow-28);
+      }
+
+      .st37 {
+        fill: url(#_名称未設定グラデーション_141);
+        filter: url(#drop-shadow-16);
+      }
+
+      .st12 {
+        fill: url(#_名称未設定グラデーション_348);
+        filter: url(#drop-shadow-37);
+      }
+
+      .st38 {
+        fill: url(#_名称未設定グラデーション_683);
+        filter: url(#drop-shadow-4);
+      }
+
+      .st39 {
+        fill: url(#_名称未設定グラデーション_689);
+        filter: url(#drop-shadow-10);
+      }
+
+      .st13 {
+        fill: url(#_名称未設定グラデーション_349);
+        filter: url(#drop-shadow-38);
+      }
+
+      .st14 {
+        fill: url(#_名称未設定グラデーション_347);
+        filter: url(#drop-shadow-36);
+      }
+
+      .st40 {
+        fill: url(#_名称未設定グラデーション_143);
+        filter: url(#drop-shadow-18);
+      }
+
+      .st15 {
+        fill: url(#_名称未設定グラデーション_343);
+        filter: url(#drop-shadow-32);
+      }
+
+      .st29, .st41 {
+        fill: #584131;
+      }
+
+      .st42 {
+        fill: url(#_名称未設定グラデーション_44);
+      }
+
+      .st43 {
+        fill: url(#_名称未設定グラデーション_688);
+        filter: url(#drop-shadow-9);
+      }
+
+      .st44 {
+        fill: url(#_名称未設定グラデーション_685);
+        filter: url(#drop-shadow-6);
+      }
+
+      .st45 {
+        fill: url(#_名称未設定グラデーション_6810);
+        filter: url(#drop-shadow-11);
+      }
+
+      .st46 {
+        fill: url(#_名称未設定グラデーション_148);
+        filter: url(#drop-shadow-23);
+      }
+
+      .st16 {
+        fill: url(#_名称未設定グラデーション_34);
+        filter: url(#drop-shadow-29);
+      }
+
+      .st17 {
+        fill: #231815;
+        stroke: #231815;
+      }
+    </style>
+    <radialGradient id="_名称未設定グラデーション_44" data-name="名称未設定グラデーション 44" cx="-732" cy="-70" fx="-732" fy="-70" r="4.1" gradientUnits="userSpaceOnUse">
+      <stop offset=".5" stop-color="#5c3d2e"/>
+      <stop offset="1" stop-color="#1f130f"/>
+    </radialGradient>
+    <radialGradient id="_名称未設定グラデーション_68" data-name="名称未設定グラデーション 68" cx="-645.1" cy="-45.5" fx="-645.1" fy="-45.5" r="4.1" gradientTransform="translate(-229.8 -498.9) rotate(-55.8) scale(1 .9)" gradientUnits="userSpaceOnUse">
+      <stop offset=".4" stop-color="#5c3d2e"/>
+      <stop offset="1" stop-color="#1f130f"/>
+    </radialGradient>
+    <filter id="drop-shadow-1" x="-637.3" y="1.4" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_681" data-name="名称未設定グラデーション 68" cx="-620.5" cy="-24" fx="-620.5" fy="-24" gradientTransform="translate(-228.5 -498) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-2" x="-605.5" y="-7.5" width="21" height="22" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur1" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur1" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_682" data-name="名称未設定グラデーション 68" cx="-691.5" cy="-46.2" fx="-691.5" fy="-46.2" r="4.1" gradientTransform="translate(-229.8 -498.9) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-3" x="-663.5" y="38.8" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur2" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_683" data-name="名称未設定グラデーション 68" cx="-626.5" cy="115.2" fx="-626.5" fy="115.2" r="4.1" gradientTransform="translate(-220.5 -492.6) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-4" x="-493.5" y="75.9" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur3" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_684" data-name="名称未設定グラデーション 68" cx="-686.2" cy="25.7" fx="-686.2" fy="25.7" r="4.1" gradientTransform="translate(-225.6 -496.1) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-5" x="-601.1" y="74.9" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur4" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_685" data-name="名称未設定グラデーション 68" cx="-574.4" cy="15.3" fx="-574.4" fy="15.3" r="4.1" gradientTransform="translate(-226.3 -496.5) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-6" x="-546.8" y="-23.4" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur5" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_686" data-name="名称未設定グラデーション 68" cx="-682" cy="-8.9" fx="-682" fy="-8.9" r="4.1" gradientTransform="translate(-227.7 -497.5) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-7" x="-627.3" y="51.9" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur6" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_687" data-name="名称未設定グラデーション 68" cx="-567.8" cy="40.8" fx="-567.8" fy="40.8" r="4.1" gradientTransform="translate(-224.8 -495.5) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-8" x="-521.9" y="-14.5" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur7" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_688" data-name="名称未設定グラデーション 68" cx="-626.2" cy="124.8" fx="-626.2" fy="124.8" r="4.1" gradientTransform="translate(-219.9 -492.2) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-9" x="-485.5" y="81.4" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur8" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_689" data-name="名称未設定グラデーション 68" cx="-580.4" cy="83.8" fx="-580.4" fy="83.8" r="4.1" gradientTransform="translate(-222.3 -493.8) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-10" x="-493.6" y="20.5" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur9" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_6810" data-name="名称未設定グラデーション 68" cx="-544.7" cy="42.3" fx="-544.7" fy="42.3" r="4.1" gradientTransform="translate(-224.7 -495.4) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-11" x="-507.9" y="-32.3" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur10" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_6811" data-name="名称未設定グラデーション 68" cx="-573.2" cy="61.9" fx="-573.2" fy="61.9" r="4.1" gradientTransform="translate(-223.6 -494.7) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-12" x="-507.7" y="2.2" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur11" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_6812" data-name="名称未設定グラデーション 68" cx="-660.1" cy="19.7" fx="-660.1" fy="19.7" r="4.1" gradientTransform="translate(-226 -496.3) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-13" x="-591.5" y="50.3" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur12" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur12" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_6813" data-name="名称未設定グラデーション 68" cx="-726.5" cy="3.8" fx="-726.5" fy="3.8" r="4.1" gradientTransform="translate(-226.9 -497) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_68"/>
+    <filter id="drop-shadow-14" x="-642" y="96.2" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur13" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur13" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_14" data-name="名称未設定グラデーション 14" cx="-474.1" cy="273.7" fx="-474.1" fy="273.7" r="4.1" gradientTransform="translate(-211.3 -486.3) rotate(-55.8) scale(1 .9)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#5c3d2e"/>
+      <stop offset=".5" stop-color="#1f130f"/>
+    </radialGradient>
+    <filter id="drop-shadow-15" x="-277" y="39" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur14" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur14" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_141" data-name="名称未設定グラデーション 14" cx="-449.5" cy="295.3" fx="-449.5" fy="295.3" gradientTransform="translate(-210 -485.5) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-16" x="-245" y="31" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur15" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur15" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_142" data-name="名称未設定グラデーション 14" cx="-520.5" cy="273" fx="-520.5" fy="273" r="4.1" gradientTransform="translate(-211.3 -486.3) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-17" x="-304" y="77" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur16" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur16" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_143" data-name="名称未設定グラデーション 14" cx="-455.5" cy="434.5" fx="-455.5" fy="434.5" r="4.1" gradientTransform="translate(-202 -480) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-18" x="-134" y="114" width="21" height="22" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur17" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur17" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_144" data-name="名称未設定グラデーション 14" cx="-515.2" cy="345" fx="-515.2" fy="345" gradientTransform="translate(-207.2 -483.5) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-19" x="-241" y="113" width="21" height="22" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur18" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur18" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_145" data-name="名称未設定グラデーション 14" cx="-403.4" cy="334.6" fx="-403.4" fy="334.6" r="4.1" gradientTransform="translate(-207.8 -483.9) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-20" x="-187" y="15" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur19" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur19" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_146" data-name="名称未設定グラデーション 14" cx="-511" cy="310.4" fx="-511" fy="310.4" r="4.1" gradientTransform="translate(-209.2 -484.9) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-21" x="-268" y="90" width="22" height="22" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur20" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur20" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_147" data-name="名称未設定グラデーション 14" cx="-396.8" cy="360.1" fx="-396.8" fy="360.1" r="4.1" gradientTransform="translate(-206.3 -482.9) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-22" x="-162" y="24" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur21" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur21" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_148" data-name="名称未設定グラデーション 14" cx="-455.2" cy="444.1" fx="-455.2" fy="444.1" gradientTransform="translate(-201.4 -479.6) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-23" x="-126" y="120" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur22" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur22" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_149" data-name="名称未設定グラデーション 14" cx="-409.4" cy="403.1" fx="-409.4" fy="403.1" gradientTransform="translate(-203.8 -481.2) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-24" x="-134" y="59" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur23" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur23" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_1410" data-name="名称未設定グラデーション 14" cx="-373.7" cy="361.6" fx="-373.7" fy="361.6" gradientTransform="translate(-206.2 -482.9) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-25" x="-148" y="6" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur24" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur24" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_1411" data-name="名称未設定グラデーション 14" cx="-402.2" cy="381.1" fx="-402.2" fy="381.1" r="4.1" gradientTransform="translate(-205.1 -482.1) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-26" x="-148" y="40" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur25" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur25" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_1412" data-name="名称未設定グラデーション 14" cx="-489.1" cy="338.9" fx="-489.1" fy="338.9" gradientTransform="translate(-207.5 -483.8) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-27" x="-232" y="88" width="21" height="22" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur26" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur26" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_1413" data-name="名称未設定グラデーション 14" cx="-555.5" cy="323" fx="-555.5" fy="323" gradientTransform="translate(-208.4 -484.4) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_14"/>
+    <filter id="drop-shadow-28" x="-282" y="134" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur27" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur27" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_34" data-name="名称未設定グラデーション 34" cx="-314" cy="581" fx="-314" fy="581" r="6" gradientTransform="translate(-193.5 -474.2) rotate(-55.8) scale(1 .9)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#5c3d2e"/>
+      <stop offset=".9" stop-color="#1f130f"/>
+    </radialGradient>
+    <filter id="drop-shadow-29" x="64.6" y="77" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur28" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur28" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_341" data-name="名称未設定グラデーション 34" cx="-280" cy="635.5" fx="-280" fy="635.5" gradientTransform="translate(-190.4 -472.1) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-30" x="129" y="80" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur29" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur29" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_342" data-name="名称未設定グラデーション 34" cx="-242" cy="599.5" fx="-242" fy="599.5" gradientTransform="translate(-192.4 -473.5) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-31" x="120" y="28" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur30" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur30" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_343" data-name="名称未設定グラデーション 34" cx="-266.1" cy="574.8" fx="-266.1" fy="574.8" r="6" gradientTransform="translate(-193.9 -474.5) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-32" x="86" y="34" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur31" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur31" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_344" data-name="名称未設定グラデーション 34" cx="-163.6" cy="667.9" fx="-163.6" fy="667.9" r="6" gradientTransform="translate(-188.5 -470.8) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-33" x="220.6" y="1.5" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur32" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur32" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_345" data-name="名称未設定グラデーション 34" cx="-195.3" cy="640.1" fx="-195.3" fy="640.1" r="6" gradientTransform="translate(-190.1 -471.9) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-34" x="180.1" y="12.8" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur33" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur33" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_346" data-name="名称未設定グラデーション 34" cx="-186.5" cy="663.7" fx="-186.5" fy="663.7" r="6" gradientTransform="translate(-188.7 -471) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-35" x="204.7" y="18.8" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur34" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur34" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_347" data-name="名称未設定グラデーション 34" cx="-197.8" cy="678.7" fx="-197.8" fy="678.7" r="6" gradientTransform="translate(-187.9 -470.4) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-36" x="210.3" y="36.3" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur35" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur35" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_348" data-name="名称未設定グラデーション 34" cx="-200.5" cy="703.7" fx="-200.5" fy="703.7" gradientTransform="translate(-186.4 -469.4) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-37" x="229.4" y="52.2" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur36" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur36" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_349" data-name="名称未設定グラデーション 34" cx="-340.9" cy="621.6" fx="-340.9" fy="621.6" r="6" gradientTransform="translate(-191.2 -472.6) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-38" x="82.5" y="122.4" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur37" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur37" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_3410" data-name="名称未設定グラデーション 34" cx="-312.5" cy="647.5" fx="-312.5" fy="647.5" r="6" gradientTransform="translate(-189.7 -471.6) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-39" x="120" y="113.7" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur38" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur38" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_3411" data-name="名称未設定グラデーション 34" cx="-250.9" cy="738" fx="-250.9" fy="738" r="6" gradientTransform="translate(-184.4 -468) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-40" x="229.3" y="113.5" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur39" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur39" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_名称未設定グラデーション_3412" data-name="名称未設定グラデーション 34" cx="-246.2" cy="755.6" fx="-246.2" fy="755.6" r="6" gradientTransform="translate(-183.4 -467.3) rotate(-55.8) scale(1 .9)" xlink:href="#_名称未設定グラデーション_34"/>
+    <filter id="drop-shadow-41" x="247.3" y="119.4" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur40" stdDeviation="2"/>
+      <feFlood flood-color="#000" flood-opacity="0"/>
+      <feComposite in2="blur40" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_レイヤー_1" data-name="レイヤー_1">
+    <g>
+      <path class="st17" d="M-1076.2,44.6h107.9l6.1-7.5c1.5,1.2,2.8,2.3,4,3.2,1.2.9,2.4,1.9,3.7,3,1.2,1.1,2.4,2.2,3.5,3.2-.3,1.5-1.5,2.2-3.6,2.2h-120.3l-1.2-4.1ZM-1072.9,73.5h102.1l5.9-7.5c1.5,1.2,2.8,2.3,4,3.2,1.2.9,2.4,1.9,3.7,3,1.2,1.1,2.4,2.2,3.5,3.2-.2.7-.6,1.3-1.2,1.7-.6.4-1.4.6-2.4.6h-114.4l-1.2-4.1ZM-1066.1,98.7h88.9l5.9-7.5c1.5,1.2,2.8,2.3,3.9,3.2,1.1.9,2.4,1.9,3.7,3,1.3,1.1,2.5,2.2,3.6,3.2-.4,1.5-1.6,2.2-3.6,2.2h-101.2l-1.2-4.1ZM-1062.7,21.7h82.4l5.9-7.3c1.5,1.2,2.8,2.3,3.9,3.2,1.1.9,2.3,1.9,3.6,3,1.2,1.1,2.4,2.1,3.5,3.1-.4,1.4-1.6,2.1-3.6,2.1h-94.7l-1.1-4ZM-1044.3,48.9c3.8,1.9,6.8,4,9,6.2,2.3,2.2,3.9,4.3,4.8,6.3,1,2,1.4,3.9,1.4,5.5s-.3,3-1,4.1c-.7,1.1-1.6,1.6-2.7,1.7-1.1,0-2.3-.4-3.4-1.5,0-2.4-.6-4.9-1.7-7.5-1-2.6-2.2-5.2-3.7-7.6-1.4-2.4-2.9-4.5-4.5-6.3l1.7-1ZM-1016.4,5.6l10.6,1.1c0,.9-.5,1.7-1.2,2.3-.7.6-1.8,1-3.4,1.3v36.6h-6.1V5.6ZM-1016.4,73.5h6.1v54.9c0,.3-.5.7-1.4,1.3-1,.6-2.2.9-3.8.9h-.8v-57.1ZM-988,48.9l12.1,3c-.3.8-.8,1.5-1.7,2.1-.8.6-2,.8-3.5.7-1.3,2-2.8,4.2-4.6,6.6-1.8,2.4-3.7,4.7-5.7,7-2,2.3-4,4.3-6,6.3h-3.2c1.6-2.4,3.1-5.1,4.7-8,1.6-2.9,3-6,4.3-9,1.3-3.1,2.5-6,3.4-8.6Z"/>
+      <path class="st17" d="M-852.9,14.4c.8,1.2.2,1.8-1.8,1.8-3.9,2-10.4,6.5-19.5,13.6,10.2-1.2,15.5-2.2,15.9-2.9.8-1.2,4.1-.4,10,2.4.8,1.2,1.4,1.8,1.8,1.8-.4,1.2-.8,1.8-1.2,1.8-.8.4-2.6.6-5.3.6-7.5,0-16.7.6-27.7,1.8v10.6c3.5-.4,7.9-1,13-1.8,3.1-.4,4.9-1,5.3-1.8,1.2-.8,4.3,0,9.4,2.4,1.6.8,2.6,1.6,2.9,2.4.4.8.2,1.4-.6,1.8-.4.4-3.7.6-10,.6-2-.4-8.7-.2-20.1.6v11.2c5.9-.4,13.8-1.2,23.6-2.4.4-.4,1.4-.4,2.9,0,2.4.8,4.9,2,7.7,3.5,1.6,1.2,2,2.2,1.2,2.9s-1.6.6-3.5.6c-5.9-.8-10.8-1.2-14.7-1.2-5.5.4-14.2,1.2-26,2.4,4.7,2,7.7,3.5,8.8,4.7.8.4,1.2,1.2,1.2,2.4-1.6,3.2-2.8,6.1-3.5,8.8,18.9-1.6,31.5-2.6,37.8-2.9,3.1-.4,5.5-.8,7.1-1.2.4-.4,2.4,0,5.9,1.2,4.3,1.6,7.1,2.9,8.3,4.1.4,2-.2,2.9-1.8,2.9-2.8,0-5.9-.2-9.4-.6-3.5-.4-6.9-.6-10-.6-9.1,0-21.2.4-36.6,1.2,20.8,17.3,42.7,29.1,65.5,35.4,1.2,1.2,1,1.8-.6,1.8-5.1.4-8.8.6-11.2.6-3.5.4-6.7.6-9.4.6-4.3,0-12.4-5.5-24.2-16.5-11.8-11-19.3-18.1-22.4-21.2-7.9,19.7-24.2,32.6-49,38.9-1.6,0-1.8-.6-.6-1.8,24-9,38.1-21.2,42.5-36.6-16.9,3.2-27.5,5.3-31.9,6.5-3.2,1.2-5.1,1.8-5.9,1.8-4.7-1.2-9.2-4.3-13.6-9.4-.8-1.6-.4-2,1.2-1.2,5.9,2.8,10.4,3.9,13.6,3.5l38.3-5.9c.4-2.4.8-5.5,1.2-9.4,0-2-1.6-4.1-4.7-6.5-9.8,2-16.1,3.5-18.9,4.7-1.2,1.2-2.4,1.6-3.5,1.2-3.5-2.7-6.5-5.5-8.8-8.3-.8-1.6-.4-2,1.2-1.2,3.5,2,6.5,2.9,8.8,2.9,5.1-.8,14.2-2.4,27.1-4.7v-11.8c-8.7,1.6-14.4,2.9-17.1,4.1-2,.8-3.5,1.2-4.7,1.2-1.2-.4-4.1-2.9-8.8-7.7s-1-1.8.6-1.8c4.3,2,7.5,3.2,9.4,3.5,3.5-.8,10.4-2,20.6-3.5v-5.9c0-2-.4-3.5-1.2-4.7-9.1,1.2-14.2,2-15.3,2.4-2.4,1.2-3.9,1.6-4.7,1.2-3.9-2-7.3-4.5-10-7.7-.8-1.6-.4-2,1.2-1.2,4.3,2,7.1,2.9,8.3,2.9,10.6-1.2,21-2.2,31.3-2.9,4.3-3.9,8.8-9.6,13.6-17.1.4-.8.4-1.6,0-2.4-.4-.8-1.4-2-2.9-3.5-.8-.8-.6-1.4.6-1.8,1.2.4,2.2.8,2.9,1.2,5.1,2,8.6,4.5,10.6,7.7ZM-894.2,20.3c1.6,1.6,2.4,4.1,2.4,7.7-.4,1.6-1,2.4-1.8,2.4-1.2,0-2.6-.8-4.1-2.4-5.1-6.7-9.1-12-11.8-15.9-.8-1.6-.4-2,1.2-1.2,7.5,4.3,12.2,7.5,14.2,9.4Z"/>
+    </g>
+    <path class="st41" d="M-696.9,31.7h106.5l6.9-8.7c1.7,1.4,3.3,2.6,4.7,3.7,1.4,1.1,2.8,2.2,4.2,3.4,1.4,1.2,2.8,2.4,4.1,3.5-.3,1.5-1.5,2.2-3.7,2.2h-121.4l-1.2-4.1ZM-693.2,60.9h99.6l6.9-8.6c1.7,1.3,3.2,2.5,4.5,3.5,1.3,1.1,2.7,2.2,4.2,3.4,1.5,1.2,2.8,2.3,4,3.5-.2.7-.6,1.3-1.2,1.7-.6.4-1.4.6-2.4.6h-114.4l-1.2-4ZM-686.6,86.2h86.7l6.9-8.7c1.7,1.4,3.3,2.6,4.6,3.6,1.3,1,2.7,2.1,4.2,3.4,1.5,1.2,2.9,2.4,4.1,3.5-.4,1.5-1.6,2.2-3.7,2.2h-101.6l-1.2-4ZM-683.1,9h80.5l6.9-8.6c1.7,1.4,3.2,2.6,4.5,3.7,1.3,1.1,2.7,2.2,4.2,3.4,1.5,1.2,2.8,2.3,4,3.5-.4,1.4-1.6,2.1-3.6,2.1h-95.4l-1.1-4ZM-665.1,35.7c4.4,1.8,7.9,3.9,10.4,6.1,2.5,2.3,4.3,4.5,5.3,6.6,1,2.2,1.4,4.1,1.2,5.9-.2,1.7-.8,3.2-1.8,4.3-1,1.1-2.2,1.7-3.7,1.7s-2.9-.7-4.3-2.1c0-2.5-.6-5-1.4-7.7-.9-2.6-1.9-5.2-3.2-7.6-1.2-2.4-2.6-4.5-4.1-6.3l1.5-1ZM-638.3-7.8l13.8,1.4c0,.9-.5,1.7-1.2,2.3-.7.6-1.8,1-3.4,1.3v36.8h-9.2V-7.8ZM-638.3,60.9h9.2v55.1c0,.3-.7.8-2.1,1.5-1.4.7-3.3,1.1-5.7,1.1h-1.5v-57.7ZM-610.8,35.5l15.2,3.5c-.3.8-.8,1.5-1.7,2.1-.8.6-2,.8-3.5.7-1.5,2.1-3.2,4.4-5.2,6.8-2,2.4-4.1,4.8-6.3,7.1-2.3,2.3-4.5,4.4-6.7,6.3h-2.8c1.4-2.5,2.8-5.3,4.1-8.3,1.4-3.1,2.7-6.2,3.9-9.4,1.2-3.2,2.2-6.1,2.9-8.8Z"/>
+    <text class="st29" transform="translate(-600.1 92.7)"><tspan x="0" y="0">美</tspan></text>
+    <circle class="st42" cx="-732" cy="-70" r="4.1"/>
+    <circle class="st34" cx="-627.7" cy="10.6" r="4.1"/>
+    <circle class="st32" cx="-596.1" cy="2.4" r="4.1"/>
+    <circle class="st20" cx="-654.4" cy="48.6" r="4.1"/>
+    <circle class="st38" cx="-484.4" cy="85.7" r="4.1"/>
+    <circle class="st21" cx="-592" cy="84.7" r="4.1"/>
+    <circle class="st44" cx="-537.7" cy="-13.6" r="4.1"/>
+    <circle class="st26" cx="-618.2" cy="61.7" r="4.1"/>
+    <circle class="st27" cx="-512.8" cy="-4.7" r="4.1"/>
+    <circle class="st43" cx="-476.2" cy="90.8" r="4.1"/>
+    <circle class="st39" cx="-484.4" cy="29.9" r="4.1"/>
+    <circle class="st45" cx="-498.6" cy="-22.9" r="4.1"/>
+    <circle class="st0" cx="-498.5" cy="11.6" r="4.1"/>
+    <circle class="st28" cx="-582.3" cy="59.7" r="4.1"/>
+    <circle class="st31" cx="-632.8" cy="105.6" r="4.1"/>
+  </g>
+  <g id="_レイヤー_2" data-name="レイヤー_2">
+    <path class="st18" d="M-339.8,69.9h106.5l6.9-8.7c1.7,1.4,3.3,2.6,4.7,3.7,1.4,1.1,2.8,2.2,4.2,3.4,1.4,1.2,2.8,2.4,4.1,3.5-.3,1.5-1.5,2.2-3.7,2.2h-121.4l-1.2-4.1ZM-336,99.2h99.6l6.9-8.6c1.7,1.3,3.2,2.5,4.5,3.5,1.3,1.1,2.7,2.2,4.2,3.4,1.5,1.2,2.8,2.3,4,3.5-.2.7-.6,1.3-1.2,1.7-.6.4-1.4.6-2.4.6h-114.4l-1.2-4ZM-329.4,124.4h86.7l6.9-8.7c1.7,1.4,3.3,2.6,4.6,3.6,1.3,1,2.7,2.1,4.2,3.4,1.5,1.2,2.9,2.4,4.1,3.5-.4,1.5-1.6,2.2-3.7,2.2h-101.6l-1.2-4ZM-326,47.3h80.5l6.9-8.6c1.7,1.4,3.2,2.6,4.5,3.7,1.3,1.1,2.7,2.2,4.2,3.4,1.5,1.2,2.8,2.3,4,3.5-.4,1.4-1.6,2.1-3.6,2.1h-95.4l-1.1-4ZM-307.9,73.9c4.4,1.8,7.9,3.9,10.4,6.1,2.5,2.3,4.3,4.5,5.3,6.6,1,2.2,1.4,4.1,1.2,5.9-.2,1.7-.8,3.2-1.8,4.3-1,1.1-2.2,1.7-3.7,1.7s-2.9-.7-4.3-2.1c0-2.5-.6-5-1.4-7.7-.9-2.6-1.9-5.2-3.2-7.6-1.2-2.4-2.6-4.5-4.1-6.3l1.5-1ZM-281.1,30.4l13.8,1.4c0,.9-.5,1.7-1.2,2.3-.7.6-1.8,1-3.4,1.3v36.8h-9.2V30.4ZM-281.1,99.2h9.2v55.1c0,.3-.7.8-2.1,1.5-1.4.7-3.3,1.1-5.7,1.1h-1.5v-57.7ZM-253.7,73.8l15.2,3.5c-.3.8-.8,1.5-1.7,2.1-.8.6-2,.8-3.5.7-1.5,2.1-3.2,4.4-5.2,6.8-2,2.4-4.1,4.8-6.3,7.1-2.3,2.3-4.5,4.4-6.7,6.3h-2.8c1.4-2.5,2.8-5.3,4.1-8.3,1.4-3.1,2.7-6.2,3.9-9.4,1.2-3.2,2.2-6.1,2.9-8.8Z"/>
+    <text class="st7" transform="translate(-240 131)"><tspan x="0" y="0">美</tspan></text>
+    <circle class="st30" cx="-267.5" cy="48.8" r="4.1"/>
+    <circle class="st37" cx="-235.9" cy="40.7" r="4.1"/>
+    <circle class="st1" cx="-294.3" cy="86.8" r="4.1"/>
+    <circle class="st40" cx="-124.2" cy="123.9" r="4.1"/>
+    <circle class="st19" cx="-231.8" cy="122.9" r="4.1"/>
+    <circle class="st24" cx="-177.5" cy="24.6" r="4.1"/>
+    <circle class="st23" cx="-258.1" cy="100" r="4.1"/>
+    <circle class="st22" cx="-152.7" cy="33.5" r="4.1"/>
+    <circle class="st46" cx="-116.1" cy="129.1" r="4.1"/>
+    <circle class="st33" cx="-124.2" cy="68.1" r="4.1"/>
+    <circle class="st25" cx="-138.5" cy="15.3" r="4.1"/>
+    <circle class="st35" cx="-138.3" cy="49.8" r="4.1"/>
+    <circle class="st2" cx="-222.1" cy="97.9" r="4.1"/>
+    <circle class="st36" cx="-272.6" cy="143.9" r="4.1"/>
+    <path class="st41" d="M27.5,67.4h106.5l6.9-8.7c1.7,1.4,3.3,2.6,4.7,3.7,1.4,1.1,2.8,2.2,4.2,3.4,1.4,1.2,2.8,2.4,4.1,3.5-.3,1.5-1.5,2.2-3.7,2.2H28.7l-1.2-4.1ZM31.2,96.6h99.6l6.9-8.6c1.7,1.3,3.2,2.5,4.5,3.5,1.3,1.1,2.7,2.2,4.2,3.4,1.5,1.2,2.8,2.3,4,3.5-.2.7-.6,1.3-1.2,1.7-.6.4-1.4.6-2.4.6H32.4l-1.2-4ZM37.8,121.9h86.7l6.9-8.7c1.7,1.4,3.3,2.6,4.6,3.6,1.3,1,2.7,2.1,4.2,3.4,1.5,1.2,2.9,2.4,4.1,3.5-.4,1.5-1.6,2.2-3.7,2.2H39.1l-1.2-4ZM41.3,44.7h80.5l6.9-8.6c1.7,1.4,3.2,2.6,4.5,3.7,1.3,1.1,2.7,2.2,4.2,3.4,1.5,1.2,2.8,2.3,4,3.5-.4,1.4-1.6,2.1-3.6,2.1H42.4l-1.1-4ZM59.4,71.4c4.4,1.8,7.9,3.9,10.4,6.1,2.5,2.3,4.3,4.5,5.3,6.6,1,2.2,1.4,4.1,1.2,5.9-.2,1.7-.8,3.2-1.8,4.3-1,1.1-2.2,1.7-3.7,1.7s-2.9-.7-4.3-2.1c0-2.5-.6-5-1.4-7.7-.9-2.6-1.9-5.2-3.2-7.6-1.2-2.4-2.6-4.5-4.1-6.3l1.5-1ZM86.1,27.9l13.8,1.4c0,.9-.5,1.7-1.2,2.3-.7.6-1.8,1-3.4,1.3v36.8h-9.2V27.9ZM86.1,96.6h9.2v55.1c0,.3-.7.8-2.1,1.5-1.4.7-3.3,1.1-5.7,1.1h-1.5v-57.7ZM113.6,71.2l15.2,3.5c-.3.8-.8,1.5-1.7,2.1-.8.6-2,.8-3.5.7-1.5,2.1-3.2,4.4-5.2,6.8-2,2.4-4.1,4.8-6.3,7.1-2.3,2.3-4.5,4.4-6.7,6.3h-2.8c1.4-2.5,2.8-5.3,4.1-8.3,1.4-3.1,2.7-6.2,3.9-9.4,1.2-3.2,2.2-6.1,2.9-8.8Z"/>
+    <text class="st29" transform="translate(127.3 128.4)"><tspan x="0" y="0">美</tspan></text>
+    <circle class="st16" cx="76.5" cy="89.4" r="6"/>
+    <circle class="st8" cx="140.7" cy="92" r="6"/>
+    <circle class="st10" cx="132.3" cy="40.3" r="6"/>
+    <circle class="st15" cx="98.3" cy="46.3" r="6"/>
+    <circle class="st9" cx="233" cy="13.9" r="6"/>
+    <circle class="st11" cx="192.1" cy="24.5" r="6"/>
+    <circle class="st3" cx="216.6" cy="30.5" r="6"/>
+    <circle class="st14" cx="222.6" cy="48.2" r="6"/>
+    <circle class="st12" cx="241.8" cy="64.6" r="6"/>
+    <circle class="st13" cx="95" cy="134.4" r="6"/>
+    <circle class="st6" cx="132.3" cy="125.6" r="6"/>
+    <circle class="st5" cx="241.8" cy="125.6" r="6"/>
+    <circle class="st4" cx="259" cy="131.6" r="6"/>
+  </g>
+</svg>

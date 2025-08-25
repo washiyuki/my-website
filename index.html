@@ -6,7 +6,7 @@
     <link rel="canonical" href="https://portfolio.yukiyuki-happy.com/index.html">
     <meta name="description" content="VBAやPythonを活用した業務効率化や、渡邊幸美のWeb制作の実績を紹介するポートフォリオサイトです。">
     <title>yukimi Portfolio</title>
-    <link rel="icon" href="images/yukimi_icon_small.png?v=1" type="image/png">
+    <link rel="icon" href="images/yukimi_icon_small.png" type="image/png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
     <link rel="stylesheet" href="style.css">
   </head>
@@ -16,7 +16,7 @@
 
       <!-- ヘッダー -->
       <header class="site-header">
-        <h1 class="logo"><a href="#" onclick="scrollToTop(event)">幸美</a></h1>
+        <h1 class="logo"><a href="#" onclick="scrollToTop(event)"><img src="images/yukimi_logo_tapioka.svg" alt="幸美_タピオカロゴ"></a></h1>
         <nav class="main-nav">
           <ul>
             <li><a href="#profile">PROFILE</a></li>
@@ -31,12 +31,12 @@
         <h2 class="profile-title">PROFILE</h2>
         <div class="profile-row">
           <div class="profile-img">
-            <img src="images/yukimi_icon.JPG" alt="顔写真">
+            <img src="images/yukimi_icon.jpg" alt="顔写真">
           </div>
           <div class="profile-text">
             <span class="logo-en">WATANABE YUKIMI</span>
-            <p class="name">渡邊 幸美<span class="sub">業務改善 × VBA自動化</span></p>
-            <p>「やると決めたらすぐ動く」がモットーの行動派です。目標に向かって即行動しながらも、ただや>るだけではなく、「どうすればもっと良くなるか？」を常に考え、改善・最適化するのが得意です。前職では、定期業務の手順見直しやVBAを使った自動化により業務効率を大幅にアップ。現場の声を拾いながら改善していくことに大きなやりがいを感じました。<br>こうした経験から、「課題を見つけて整理し、関係者と対話しながらより良い形をつくっていく」プロセスに面白さを感じ、今後はプロジェクト全体を前に進めるPMとしての役割を担っていきたいと考えるようになりました。人との関わりを大切にしながら、「仕組みで人を楽にする」サポート役として、チーム全体が動きやすくなる土台を整えられるPMを目指しています。</p>
+            <p class="name">渡邊 幸美<br class="sp-br"><span class="sub">業務改善 × VBA自動化</span></p>
+            <p>「やると決めたらすぐ動く」がモットーの行動派です。目標に向かって即行動しながらも、ただやるだけではなく、「どうすればもっと良くなるか？」を常に考え、改善・最適化するのが得意です。前職では、定期業務の手順見直しやVBAを使った自動化により業務効率を大幅にアップ。現場の声を拾いながら改善していくことに大きなやりがいを感じました。<br>こうした経験から、「課題を見つけて整理し、関係者と対話しながらより良い形をつくっていく」プロセスに面白さを感じ、今後はプロジェクト全体を前に進めるPMとしての役割を担っていきたいと考えるようになりました。人との関わりを大切にしながら、「仕組みで人を楽にする」サポート役として、チーム全体が動きやすくなる土台を整えられるPMを目指しています。</p>
           </div>
         </div>
       </section>
@@ -53,7 +53,7 @@
         </div>
 
         <div class="work-row">
-          <div class="work-img"><a href="vba.html"><img src="images/vba/vba_1.png" alt="vba"></a></div>
+          <div class="work-img"><a href="vba.html"><img src="images/vba/vba_1.webp" alt="vba"></a></div>
           <div class="work-desc">
             <div class="work-title"><a href="vba.html">VBA</a></div>
             <p>「いつも同じようなExcel作業をしているけど、地味に時間がかかる」<br>
@@ -65,10 +65,8 @@
           <div class="work-img"><a href="hp.html"><img src="images/malene_thumbnail.png" alt="HP"></a></div>
           <div class="work-desc">
             <div class="work-title"><a href="hp.html">ホームページ制作</a></div>
-            <p>「その人らしさ」や「お店の空気感」を、そっと伝えるデザインを。<br>
-              ひとつひとつに耳を傾けながら、全体の世界観をつくっていきます。<br>
+            <p>「その人らしさ」や「お店の空気感」を、そっと伝えるデザインを。ひとつひとつに耳を傾けながら、全体の世界観をつくっていきます。<br>
               見た目の美しさだけではなく、見る人に安心感を与えること。<br>
-              そして、誰かの想いや魅力がきちんと届くこと。<br>
               『らしさ』を大切にした、優しく温かなホームページを心がけています。</p>
           </div>
         </div>
@@ -94,6 +92,14 @@
           &copy; yukimi portfolio.
         </p>
       </footer>
-
+      <script>
+        function scrollToTop(event) {
+          event.preventDefault();
+          window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+          });
+        }
+      </script>
   </body>
 </html>
