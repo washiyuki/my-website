@@ -43,6 +43,13 @@ h3 {
   padding-bottom: 16px;
 }
 
+h4 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 16px 0 8px;
+  line-height: 1.5;
+}
+
 p {
   font-size: 1rem;
 }
@@ -79,14 +86,9 @@ button {
 }
 
 section {
-  max-width: 1800px;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 32px;
-}
-
-::selection {
-  background: none;
-  color: inherit;
+  padding: 32px 64px;
 }
 
 .bg-overlay {
@@ -96,7 +98,7 @@ section {
   z-index: -1;
   width: 100%;
   height: 100%;
-  background-image: url("images/flower.jpg");
+  background-image: url("images/flower.webp");
   background-repeat: no-repeat;        /* 画像を繰り返さない */
   background-size: cover;              /* 高さ・横幅に合わせて引き伸ばし */
   background-position: center center;  /* 中央寄せ */
@@ -147,7 +149,7 @@ PROFILE
 ================================================ */
 #profile {
   position: relative;
-  margin-top: 600px;
+  margin-top: 700px;
   scroll-margin-top: 100px; /* ヘッダーの高さ＋余裕 */
 }
 
@@ -187,7 +189,7 @@ PROFILE
  }
 
 .name span {
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding-left: 16px;
 }
 
@@ -304,6 +306,7 @@ footer {
   color: #584131;
 }
 
+
 /* ================================================ 
 article system.html hp.html
 ================================================ */
@@ -313,26 +316,12 @@ article system.html hp.html
   justify-content: center;
 }
 
-.item-img {
-  flex: 0 0 60%;
-}
-
 .item-img img {
-  width: 100%;
+  width: 600px;
   height: auto;
-  object-fit:contain; 
-  display: block;
-}
-
-h4 {
-  font-size: 1.2rem;
-  font-weight: bold;
-  padding: 16px 0 8px;
-  line-height: 1.5;
 }
 
 .list-item-content {
-  flex:1;  
   border-radius: 8px;
   background-color: rgba(0, 0, 0, 0.5);
   padding: 16px;
@@ -368,15 +357,11 @@ article h2 {
 
 .list-item-img {
   flex: 0 0 40%;   /* 横幅を40%に固定 */
-  max-width: 400px; /* 必要なら上限を設定 */
-  margin: 0 auto;
 }
 
 .list-item-img img {
   width: 100%;      /* 親幅に合わせる */
   height: auto;
-  object-fit: cover;
-  display: block;
 }
 
 .list-item-img img:hover {
@@ -384,11 +369,9 @@ article h2 {
 }
 
 .list-item-content {
-  flex: 1;          /* 余った幅を全部使う */
   margin-left: 16px;
   color: #fff8f0;
 }
-
 
 .menu-title a {
   color: #fff8f0;
@@ -404,17 +387,9 @@ article h2 {
 /* ================================================ 
 article vba_1.html
 ================================================ */
-.vba-img {
-  flex: 0 0 60%;   /* 横幅を40%に固定 */
-}
-
 .vba-img img {
-  width: 100%;
+  width: 520px;
   height: auto;
-  object-fit: contain;
-  object-position: top center;
-  display: block;
-  margin: 0 auto;
 }
 
 .advantages {
@@ -459,8 +434,8 @@ article vba_1.html
 
   section {
     width: 100%;
+    padding: 32px 16px;
   }
-
 
   /* header */
   .site-header {
@@ -485,7 +460,6 @@ article vba_1.html
   .main-nav ul {
     gap: 16px;
   }
-
 
    /* PROFILE */
   #profile {
@@ -548,7 +522,6 @@ article vba_1.html
     line-height: 1.4;
   }
 
-
   /* WORKS */
   #works {
     scroll-margin-top: 100px;
@@ -583,12 +556,10 @@ article vba_1.html
     text-align: center;
   }
 
-
   /* contact */
   #contact {
     width: 90%;
     }
-
 
   /* footer */
   .sns {
@@ -619,7 +590,6 @@ article vba_1.html
     margin: 0 auto;
   }
 
-
   /* article system.html hp.html */
   .item {
     flex-direction: column;
@@ -628,7 +598,6 @@ article vba_1.html
 
   .item-img img {
     width: 90%;
-    max-width: 300px;
     margin: 0 auto;
   }
 
@@ -640,20 +609,17 @@ article vba_1.html
   .list-item-content div h4:nth-of-type(3),
   .list-item-content div p:nth-of-type(2) {
     display: none;
-    }
+  }
 
-  
   /* vba.html */
   .list-item-content div p {
     font-size: 1.4rem;
     line-height: 1.8;
   }
 
-
   /* article vba_1.html */
   .vba-img {
     width:90%;
-    max-width: 300px;
     margin: 0 auto;
   }
 
